@@ -1,0 +1,11 @@
+{
+  "emulators": {
+    "functions": {
+      "host": "localhost",
+      "port":520
+    },
+    "ui": {
+      "enabled": true
+    }
+  }
+}
